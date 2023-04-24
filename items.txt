@@ -1,0 +1,44 @@
+Arctic cpu casing	  9	1990
+Asus monitor   	0	   7400
+Barcode scanner 	7	 1990
+Bluetooth headset	11	700
+Bluetooth mobile keyboard 	6	 2000
+CD drive 	2	  530
+Chassis 	1	  360
+Comfort curve keyboard 	7	 1000
+Compact optical mouse 	5	  600
+Contact barcode scanner	9	1580
+Corsair usb.8gb	2	  270
+CPU 4GB Win10	0	13000
+CPU fan	4	111.0
+CruzerBlade USB-4gb 	10	  250
+External Hard Disk Drives-500GB	4	5300
+Ethernet card 	8	  750
+Expansion slots 	3	  200
+Express mouse 	10	  800
+Earphones Mi	7	  180
+Fan and heat sink 	2	 1200
+Floppy drive 	2	   15
+Gigabit 18-Port	8	10478
+Hard Disk Drive-1TB 	17	 4600
+Hard Disk Drives-750GB 	9	 3580
+intel i7 10-Gen CPUs	12	21700
+Joystick 	5	  680
+kingston usb.8gb 	3	  280
+memory	2	   10
+modem  	6	   8
+motherboard 	12	 4000
+mouse pad 	2	   40
+network card 	7	  500
+parallel card	8	250	
+pc microphone 	12	  150
+ports 	3	 2040
+power cord 	4	  600
+power supply	3	580
+samsung monitor 	7	22300
+scanner 	4	 2180
+smart card 	3	    6
+sound card 	8	 3300
+steelseries mouse pad	10	2180
+Laptop	8	60000.0
+XYZ	995	1000.0
